@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">IPAddress</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="ipv4_label">Get IPv4 Address</string>
+    <string name="ipv6_label">Get IPv6 Address</string>
+
+</resources>
